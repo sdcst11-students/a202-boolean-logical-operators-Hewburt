@@ -9,7 +9,7 @@ There are two important logical operators:
 
 print("=======================================")
 print(" Example 1: and statements             ")
-a = 5
+a = 4
 b = 10
 if a==5 and b==10:
   print("Both statements are true")
